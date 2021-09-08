@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola! como estas?
+=======
+Muy bien y vos?
+>>>>>>> 17f8afc3ae681c218617c21cfa79a20a284478e8
