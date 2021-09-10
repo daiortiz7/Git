@@ -1,0 +1,7 @@
+function Cuentabancaria (titular,cuenta,apellidotitular,saldo,movimientos){
+    this.titular = titular;
+    this.cuenta = cuenta;
+    this.apellidotitular = apellidotitular;
+    this.saldo = saldo;
+    this.movimientos = movimientos;
+}
